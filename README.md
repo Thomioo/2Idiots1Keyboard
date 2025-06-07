@@ -1,6 +1,6 @@
 # 2 Idiots 1 Keyboard
 
-A collaborative, turn-based web code editor inspired by [ThePrimeagen's video](https://youtu.be/ycTOEWqjeHI?si=eQd7W7zinHl9Fn_A) — but much dumber and simpler!
+A collaborative, turn-based web code editor inspired by [ThePrimeagen's video](https://youtu.be/ycTOEWqjeHI?si=eQd7W7zinHl9Fn_A) — but much dumber xd
 
 ## What is this?
 
